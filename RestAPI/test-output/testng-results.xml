@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-17T04:36:14 TRT" name="Default suite" finished-at="2023-08-17T04:36:17 TRT" duration-ms="2324">
+    <groups>
+    </groups>
+    <test started-at="2023-08-17T04:36:14 TRT" name="Default test" finished-at="2023-08-17T04:36:17 TRT" duration-ms="2324">
+      <class name="Baskettest">
+        <test-method signature="basketTest_AddProductToBasket_ReturnsStatusCode201AndProduct()[pri:0, instance:Baskettest@6ae5aa72]" started-at="2023-08-17T04:36:14 TRT" name="basketTest_AddProductToBasket_ReturnsStatusCode201AndProduct" finished-at="2023-08-17T04:36:17 TRT" duration-ms="2269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basketTest_AddProductToBasket_ReturnsStatusCode201AndProduct -->
+      </class> <!-- Baskettest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
